@@ -80,7 +80,7 @@
     "img2img/Prompt/visible": true,
     "img2img/Prompt/value": "masterpiece, best quality, ",
     "img2img/Negative prompt/visible": true,
-    "img2img/Negative prompt/value": "lowres, bad anatomy, ",",
+    "img2img/Negative prompt/value": "lowres, bad anatomy, ",
     "img2img/Mask blur/visible": true,
     "img2img/Mask blur/value": 4,
     "img2img/Mask blur/minimum": 0,
