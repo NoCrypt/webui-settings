@@ -1,0 +1,4 @@
+name,prompt,negative_prompt
+None,,
+[NAI] Add Quality Tags,"masterpiece, best quality, ",
+[NAI] Low quality + bad anatomy,,"lowres, bad anatomy,"
