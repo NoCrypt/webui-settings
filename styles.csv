@@ -1,7 +1,7 @@
 name,prompt,negative_prompt
 None,,
-[NAI] Default, "masterpiece, best quality, ","nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, "
+[NAI] Default, "masterpiece, best quality, ","lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, "
 [NAI] Add Quality Tags,"masterpiece, best quality, ",
 [NAI] Low quality + bad anatomy,,"lowres, bad anatomy, "
-[NAI] No NSFW, More bad prompts,,"nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, "
+[NAI] No NSFW + More bad prompts,,"nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, "
 
