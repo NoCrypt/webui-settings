@@ -98,7 +98,7 @@
     "deepbooru_use_spaces": false,
     "deepbooru_escape": true,
     "save_images_add_number": true,
-    "use_scale_latent_for_hires_fix": false,
+    "use_scale_latent_for_hires_fix": true,
     "sd_checkpoint_cache": 0,
     "show_progress_grid": true,
     "disable_weights_auto_swap": false,
