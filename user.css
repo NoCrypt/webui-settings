@@ -1,0 +1,6 @@
+#setting_show_progress_every_n_steps > div.w-full.flex.flex-col > div > label > span {
+    white-space: nowrap;
+    overflow: hidden;
+    width: 220px;
+    text-overflow: ellipsis;
+}
