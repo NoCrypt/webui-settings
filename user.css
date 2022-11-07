@@ -4,3 +4,7 @@
     width: 220px;
     text-overflow: ellipsis;
 }
+
+#txt2img_generate, #img2img_generate {
+    min-height: 5.5em;
+}
