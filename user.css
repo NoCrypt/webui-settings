@@ -5,6 +5,6 @@
     text-overflow: ellipsis;
 }
 
-#txt2img_generate, #img2img_generate {
-    min-height: 5.5em;
+#txt2img_prompt > label > textarea, #txt2img_neg_prompt > label > textarea, #img2img_prompt > label > textarea, #img2img_neg_prompt > label > textarea {
+    min-height: 8em;
 }
