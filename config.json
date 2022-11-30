@@ -112,5 +112,5 @@
     "clean_temp_dir_at_start": false,
     "pin_memory": false,
     "save_optimizer_state": false,
-    "sd_vae_as_default": false,
+    "sd_vae_as_default": false
 }
