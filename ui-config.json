@@ -134,7 +134,7 @@
     "img2img/Batch size/visible": true,
     "img2img/Batch size/value": 1,
     "img2img/Batch size/minimum": 1,
-    "img2img/Batch size/maximum": 8,
+    "img2img/Batch size/maximum": 32,
     "img2img/Batch size/step": 1,
     "img2img/CFG Scale/visible": true,
     "img2img/CFG Scale/value": 7.0,
