@@ -44,7 +44,7 @@
     "face_restoration_unload": false,
     "memmon_poll_rate": 1,
     "samples_log_stdout": false,
-    "multiple_tqdm": true,
+    "multiple_tqdm": false,
     "unload_models_when_training": false,
     "sd_model_checkpoint": "waifu_diffusion.ckpt [4470c325]",
     "sd_hypernetwork": "None",
